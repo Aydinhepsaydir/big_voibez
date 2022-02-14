@@ -9,14 +9,16 @@ const Layout = ({ children }) => {
     AOS.init();
   })
 
-  window.addEventListener("mousemove", (event) => {
-    const cursor = document.querySelector(".cursor");
+  if (typeof window !== "undefined") {
+    window.addEventListener("mousemove", (event) => {
+      const cursor = document.querySelector(".cursor");
 
-    window.requestAnimationFrame(() => {
-      cursor.style.left = `${event.pageX}px`
-      cursor.style.top = `${event.pageY}px`
-    });
-  })
+      window.requestAnimationFrame(() => {
+        cursor.style.left = `${event.pageX}px`
+        cursor.style.top = `${event.pageY}px`
+      });
+    })
+  }
 
   return (
     <>
