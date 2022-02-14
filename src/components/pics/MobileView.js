@@ -18,7 +18,7 @@ export const MobileView = () => {
             data-aos-once="true"
           >
             <StaticImage
-              src="../images/pics/olive_and_rapeseed.png"
+              src="../../images/olive_and_rapeseed.png"
               placeholder="tracedSVG"
               style={imgStyles}
               alt="random" />
@@ -32,7 +32,7 @@ export const MobileView = () => {
             data-aos-once="true"
           >
             <StaticImage
-              src="../images/pics/amsterdam.jpg"
+              src="../../images/amsterdam.jpg"
               placeholder="tracedSVG"
               style={imgStyles}
               alt="random" />
@@ -46,7 +46,7 @@ export const MobileView = () => {
             data-aos-once="true"
           >
             <StaticImage
-              src="../images/pics/mf_doom.png"
+              src="../../images/mf_doom.png"
               placeholder="tracedSVG"
               style={imgStyles}
               alt="random" />
@@ -60,7 +60,7 @@ export const MobileView = () => {
             data-aos-once="true"
           >
             <StaticImage
-              src="../images/pics/istanbul.jpg"
+              src="../../images/istanbul.jpg"
               placeholder="tracedSVG"
               style={imgStyles}
               alt="random" />
@@ -74,7 +74,7 @@ export const MobileView = () => {
             data-aos-once="true"
           >
             <StaticImage
-              src="../images/pics/joe.jpg"
+              src="../../images/joe.jpg"
               placeholder="tracedSVG"
               style={imgStyles}
               alt="random" />
@@ -88,7 +88,7 @@ export const MobileView = () => {
             data-aos-once="true"
           >
             <StaticImage
-              src="../images/pics/circle.png"
+              src="../../images/circle.png"
               placeholder="tracedSVG"
               style={imgStyles}
               alt="random" />
@@ -102,7 +102,7 @@ export const MobileView = () => {
             data-aos-once="true"
           >
             <StaticImage
-              src="../images/pics/greece2.jpg"
+              src="../../images/greece2.jpg"
               placeholder="tracedSVG"
               style={imgStyles}
               alt="random" />
@@ -116,7 +116,7 @@ export const MobileView = () => {
             data-aos-once="true"
           >
             <StaticImage
-              src="../images/pics/dimensions.jpg"
+              src="../../images/dimensions.jpg"
               placeholder="tracedSVG"
               style={imgStyles}
               alt="random" />
@@ -130,7 +130,7 @@ export const MobileView = () => {
             data-aos-once="true"
           >
             <StaticImage
-              src="../images/pics/bee.jpg"
+              src="../../images/bee.jpg"
               placeholder="tracedSVG"
               style={imgStyles}
               alt="random" />
@@ -144,7 +144,7 @@ export const MobileView = () => {
             data-aos-once="true"
           >
             <StaticImage
-              src="../images/pics/strand_180.jpg"
+              src="../../images/strand_180.jpg"
               placeholder="tracedSVG"
               style={imgStyles}
               alt="random" />
@@ -158,7 +158,7 @@ export const MobileView = () => {
             data-aos-once="true"
           >
             <StaticImage
-              src="../images/pics/isle_of_wight.jpg"
+              src="../../images/isle_of_wight.jpg"
               placeholder="tracedSVG"
               style={imgStyles}
               alt="random" />
@@ -172,7 +172,7 @@ export const MobileView = () => {
             data-aos-once="true"
           >
             <StaticImage
-              src="../images/pics/conor.jpg"
+              src="../../images/conor.jpg"
               placeholder="tracedSVG"
               style={imgStyles}
               alt="random" />
@@ -186,7 +186,7 @@ export const MobileView = () => {
             data-aos-once="true"
           >
             <StaticImage
-              src="../images/pics/greece1.jpg"
+              src="../../images/greece1.jpg"
               placeholder="tracedSVG"
               style={imgStyles}
               alt="random" />
@@ -200,7 +200,7 @@ export const MobileView = () => {
             data-aos-once="true"
           >
             <StaticImage
-              src="../images/pics/mum_and_dad.jpg"
+              src="../../images/mum_and_dad.jpg"
               placeholder="tracedSVG"
               style={imgStyles}
               alt="random" />
@@ -214,7 +214,7 @@ export const MobileView = () => {
             data-aos-once="true"
           >
             <StaticImage
-              src="../images/pics/mosque.jpg"
+              src="../../images/mosque.jpg"
               placeholder="tracedSVG"
               style={imgStyles}
               alt="random" />
@@ -228,7 +228,7 @@ export const MobileView = () => {
             data-aos-once="true"
           >
             <StaticImage
-              src="../images/pics/bbq.jpg"
+              src="../../images/bbq.jpg"
               placeholder="tracedSVG"
               style={imgStyles}
               alt="random" />
@@ -242,7 +242,7 @@ export const MobileView = () => {
             data-aos-once="true"
           >
             <StaticImage
-              src="../images/pics/tn.jpg"
+              src="../../images/tn.jpg"
               placeholder="tracedSVG"
               style={imgStyles}
               alt="random" />
