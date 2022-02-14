@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Karla:ital,wght@0,300;1,300&family=Space+Mono&display=swap');
+
+html {
+  cursor: none;
+  color: blue;
+}
+
+h1 {
+  font-family: 'Audiowide', cursive;
+  mix-blend-mode: exclusion;
+}
+
+span, p {
+  font-family: 'Karla', sans-serif;
+  mix-blend-mode: exclusion;
+}
+
+a {
+  font-family: 'Karla', sans-serif;
+  color: blue;
+  text-decoration: none;
+  margin-left: 12px;
+  text-decoration: underline;
+  cursor: none;
+  mix-blend-mode: exclusion;
+}
+
+.cursor {
+  width: 6rem;
+  height: 6rem;
+  background-color: yellow;
+  border-radius: 50%;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  pointer-events: none;
+  transition: all 3s ease;
+  transition-property: transform;
+  transform-origin: 150% 150%;
+  z-index: 10;
+  mix-blend-mode: difference;
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  h1 {
+    font-size: 50px;
+  }
+
+  span, p {
+    font-size: 20px;
+  }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+  h1 {
+    font-size: 50px;
+  }
+
+  span, p {
+    font-size: 24px;
+  }
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+  h1 {
+    font-size: 72px;
+  }
+
+  span, p {
+    font-size: 30px;
+  }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+  h1 {
+    font-size: 100px;
+  }
+
+  span, p {
+    font-size: 45px;
+  }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+  h1 {
+    font-size: 100px;
+  }
+
+  span, p {
+    font-size: 60px;
+  }
+}
