@@ -10,7 +10,7 @@ const Wrapper = styled.div`
   display: flex;
   justify-content: space-between;
   margin: 8px;
-  z-index: 1000;
+  color: blue;
 `
 
 export const Navbar = () => {
