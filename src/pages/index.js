@@ -27,7 +27,8 @@ const IndexPage = () => {
     'baker.',
     'cyclist.',
     'festival-goer.',
-    'gamer.'
+    'gamer.',
+    'wooooooo !'
   ]
 
   return (
